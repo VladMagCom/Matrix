@@ -1,0 +1,3 @@
+/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles/Matrix.dir
+/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles/edit_cache.dir
+/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles/rebuild_cache.dir
