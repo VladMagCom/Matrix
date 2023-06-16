@@ -1,5 +1,6 @@
 #include "matrix.h"
 
+//Создание и заполнение матрицы А нулями размера s на k
 void Zeros(int s, int k, struct Matrix* A) {
     A->n = s;
     A->m = k;

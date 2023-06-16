@@ -1,5 +1,7 @@
 #include "matrix.h"
 
+//Перемножение матриц 
+//строго по правилу
 void Umn(struct Matrix A, struct Matrix B, struct Matrix* C) {
     if (A.m != B.n) {
         printf("Error, wrong sizes\n");

@@ -1,6 +1,9 @@
 #include "matrix.h"
 
+//Реализация интерфейса для взаимодействия с программой
 void Interface(struct Matrix* A, struct Matrix* B, struct Matrix* C) {
+    //бесконечный цикл, который может оборвать только пользователь
+    //взаимодествие происходит за счет ввода пользователем символов 
     while(1 == 1){
         char command;
         scanf("%c", &command);

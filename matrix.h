@@ -2,12 +2,14 @@
 #include <stdlib.h>
 #include <math.h>
 
+//Определение основной структуры матрицы
 struct Matrix {
     int** array;
-    int n;
-    int m;
+    int n; //кол-во строк
+    int m; //кол-во стобцов 
 };
 
+//Объявление всех ф-ий 
 struct Matrix* Summ(struct Matrix A, struct Matrix B, struct Matrix* C);
 struct Matrix* Minus(struct Matrix A, struct Matrix B, struct Matrix* C);
 void T(struct Matrix* A);

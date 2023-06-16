@@ -111,19 +111,19 @@ CMakeFiles/Matrix.dir/Transposition.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Transposition.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Transposition.c -o CMakeFiles/Matrix.dir/Transposition.c.s
 
-CMakeFiles/Matrix.dir/Summ.c.o: CMakeFiles/Matrix.dir/flags.make
-CMakeFiles/Matrix.dir/Summ.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Summ.c
-CMakeFiles/Matrix.dir/Summ.c.o: CMakeFiles/Matrix.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Matrix.dir/Summ.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Matrix.dir/Summ.c.o -MF CMakeFiles/Matrix.dir/Summ.c.o.d -o CMakeFiles/Matrix.dir/Summ.c.o -c /Users/wlad/Desktop/материалы/prog/github/Matrix/Summ.c
+CMakeFiles/Matrix.dir/Summarizing.c.o: CMakeFiles/Matrix.dir/flags.make
+CMakeFiles/Matrix.dir/Summarizing.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Summarizing.c
+CMakeFiles/Matrix.dir/Summarizing.c.o: CMakeFiles/Matrix.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Matrix.dir/Summarizing.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Matrix.dir/Summarizing.c.o -MF CMakeFiles/Matrix.dir/Summarizing.c.o.d -o CMakeFiles/Matrix.dir/Summarizing.c.o -c /Users/wlad/Desktop/материалы/prog/github/Matrix/Summarizing.c
 
-CMakeFiles/Matrix.dir/Summ.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Matrix.dir/Summ.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wlad/Desktop/материалы/prog/github/Matrix/Summ.c > CMakeFiles/Matrix.dir/Summ.c.i
+CMakeFiles/Matrix.dir/Summarizing.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Matrix.dir/Summarizing.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wlad/Desktop/материалы/prog/github/Matrix/Summarizing.c > CMakeFiles/Matrix.dir/Summarizing.c.i
 
-CMakeFiles/Matrix.dir/Summ.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Summ.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Summ.c -o CMakeFiles/Matrix.dir/Summ.c.s
+CMakeFiles/Matrix.dir/Summarizing.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Summarizing.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Summarizing.c -o CMakeFiles/Matrix.dir/Summarizing.c.s
 
 CMakeFiles/Matrix.dir/Print.c.o: CMakeFiles/Matrix.dir/flags.make
 CMakeFiles/Matrix.dir/Print.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Print.c
@@ -153,19 +153,19 @@ CMakeFiles/Matrix.dir/Multiplication.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Multiplication.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Multiplication.c -o CMakeFiles/Matrix.dir/Multiplication.c.s
 
-CMakeFiles/Matrix.dir/Minus.c.o: CMakeFiles/Matrix.dir/flags.make
-CMakeFiles/Matrix.dir/Minus.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Minus.c
-CMakeFiles/Matrix.dir/Minus.c.o: CMakeFiles/Matrix.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Matrix.dir/Minus.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Matrix.dir/Minus.c.o -MF CMakeFiles/Matrix.dir/Minus.c.o.d -o CMakeFiles/Matrix.dir/Minus.c.o -c /Users/wlad/Desktop/материалы/prog/github/Matrix/Minus.c
+CMakeFiles/Matrix.dir/Subtracting.c.o: CMakeFiles/Matrix.dir/flags.make
+CMakeFiles/Matrix.dir/Subtracting.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Subtracting.c
+CMakeFiles/Matrix.dir/Subtracting.c.o: CMakeFiles/Matrix.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wlad/Desktop/материалы/prog/github/Matrix/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Matrix.dir/Subtracting.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Matrix.dir/Subtracting.c.o -MF CMakeFiles/Matrix.dir/Subtracting.c.o.d -o CMakeFiles/Matrix.dir/Subtracting.c.o -c /Users/wlad/Desktop/материалы/prog/github/Matrix/Subtracting.c
 
-CMakeFiles/Matrix.dir/Minus.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Matrix.dir/Minus.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wlad/Desktop/материалы/prog/github/Matrix/Minus.c > CMakeFiles/Matrix.dir/Minus.c.i
+CMakeFiles/Matrix.dir/Subtracting.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Matrix.dir/Subtracting.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wlad/Desktop/материалы/prog/github/Matrix/Subtracting.c > CMakeFiles/Matrix.dir/Subtracting.c.i
 
-CMakeFiles/Matrix.dir/Minus.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Minus.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Minus.c -o CMakeFiles/Matrix.dir/Minus.c.s
+CMakeFiles/Matrix.dir/Subtracting.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Matrix.dir/Subtracting.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wlad/Desktop/материалы/prog/github/Matrix/Subtracting.c -o CMakeFiles/Matrix.dir/Subtracting.c.s
 
 CMakeFiles/Matrix.dir/Interface.c.o: CMakeFiles/Matrix.dir/flags.make
 CMakeFiles/Matrix.dir/Interface.c.o: /Users/wlad/Desktop/материалы/prog/github/Matrix/Interface.c
@@ -214,10 +214,10 @@ Matrix_OBJECTS = \
 "CMakeFiles/Matrix.dir/matrix.c.o" \
 "CMakeFiles/Matrix.dir/Zeros.c.o" \
 "CMakeFiles/Matrix.dir/Transposition.c.o" \
-"CMakeFiles/Matrix.dir/Summ.c.o" \
+"CMakeFiles/Matrix.dir/Summarizing.c.o" \
 "CMakeFiles/Matrix.dir/Print.c.o" \
 "CMakeFiles/Matrix.dir/Multiplication.c.o" \
-"CMakeFiles/Matrix.dir/Minus.c.o" \
+"CMakeFiles/Matrix.dir/Subtracting.c.o" \
 "CMakeFiles/Matrix.dir/Interface.c.o" \
 "CMakeFiles/Matrix.dir/Feeling.c.o" \
 "CMakeFiles/Matrix.dir/Determinant.c.o"
@@ -228,10 +228,10 @@ Matrix_EXTERNAL_OBJECTS =
 Matrix: CMakeFiles/Matrix.dir/matrix.c.o
 Matrix: CMakeFiles/Matrix.dir/Zeros.c.o
 Matrix: CMakeFiles/Matrix.dir/Transposition.c.o
-Matrix: CMakeFiles/Matrix.dir/Summ.c.o
+Matrix: CMakeFiles/Matrix.dir/Summarizing.c.o
 Matrix: CMakeFiles/Matrix.dir/Print.c.o
 Matrix: CMakeFiles/Matrix.dir/Multiplication.c.o
-Matrix: CMakeFiles/Matrix.dir/Minus.c.o
+Matrix: CMakeFiles/Matrix.dir/Subtracting.c.o
 Matrix: CMakeFiles/Matrix.dir/Interface.c.o
 Matrix: CMakeFiles/Matrix.dir/Feeling.c.o
 Matrix: CMakeFiles/Matrix.dir/Determinant.c.o

@@ -201,30 +201,6 @@ Interface.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Interface.c.s
 .PHONY : Interface.c.s
 
-Minus.o: Minus.c.o
-.PHONY : Minus.o
-
-# target to build an object file
-Minus.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Minus.c.o
-.PHONY : Minus.c.o
-
-Minus.i: Minus.c.i
-.PHONY : Minus.i
-
-# target to preprocess a source file
-Minus.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Minus.c.i
-.PHONY : Minus.c.i
-
-Minus.s: Minus.c.s
-.PHONY : Minus.s
-
-# target to generate assembly for a file
-Minus.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Minus.c.s
-.PHONY : Minus.c.s
-
 Multiplication.o: Multiplication.c.o
 .PHONY : Multiplication.o
 
@@ -273,29 +249,53 @@ Print.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Print.c.s
 .PHONY : Print.c.s
 
-Summ.o: Summ.c.o
-.PHONY : Summ.o
+Subtracting.o: Subtracting.c.o
+.PHONY : Subtracting.o
 
 # target to build an object file
-Summ.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summ.c.o
-.PHONY : Summ.c.o
+Subtracting.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Subtracting.c.o
+.PHONY : Subtracting.c.o
 
-Summ.i: Summ.c.i
-.PHONY : Summ.i
+Subtracting.i: Subtracting.c.i
+.PHONY : Subtracting.i
 
 # target to preprocess a source file
-Summ.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summ.c.i
-.PHONY : Summ.c.i
+Subtracting.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Subtracting.c.i
+.PHONY : Subtracting.c.i
 
-Summ.s: Summ.c.s
-.PHONY : Summ.s
+Subtracting.s: Subtracting.c.s
+.PHONY : Subtracting.s
 
 # target to generate assembly for a file
-Summ.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summ.c.s
-.PHONY : Summ.c.s
+Subtracting.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Subtracting.c.s
+.PHONY : Subtracting.c.s
+
+Summarizing.o: Summarizing.c.o
+.PHONY : Summarizing.o
+
+# target to build an object file
+Summarizing.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summarizing.c.o
+.PHONY : Summarizing.c.o
+
+Summarizing.i: Summarizing.c.i
+.PHONY : Summarizing.i
+
+# target to preprocess a source file
+Summarizing.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summarizing.c.i
+.PHONY : Summarizing.c.i
+
+Summarizing.s: Summarizing.c.s
+.PHONY : Summarizing.s
+
+# target to generate assembly for a file
+Summarizing.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix.dir/build.make CMakeFiles/Matrix.dir/Summarizing.c.s
+.PHONY : Summarizing.c.s
 
 Transposition.o: Transposition.c.o
 .PHONY : Transposition.o
@@ -387,18 +387,18 @@ help:
 	@echo "... Interface.o"
 	@echo "... Interface.i"
 	@echo "... Interface.s"
-	@echo "... Minus.o"
-	@echo "... Minus.i"
-	@echo "... Minus.s"
 	@echo "... Multiplication.o"
 	@echo "... Multiplication.i"
 	@echo "... Multiplication.s"
 	@echo "... Print.o"
 	@echo "... Print.i"
 	@echo "... Print.s"
-	@echo "... Summ.o"
-	@echo "... Summ.i"
-	@echo "... Summ.s"
+	@echo "... Subtracting.o"
+	@echo "... Subtracting.i"
+	@echo "... Subtracting.s"
+	@echo "... Summarizing.o"
+	@echo "... Summarizing.i"
+	@echo "... Summarizing.s"
 	@echo "... Transposition.o"
 	@echo "... Transposition.i"
 	@echo "... Transposition.s"

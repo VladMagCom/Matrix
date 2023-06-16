@@ -6,10 +6,10 @@ set(SOURCES
     matrix.c
     Zeros.c
     Transposition.c
-    Summ.c
+    Summarizing.c
     Print.c
     Multiplication.c
-    Minus.c
+    Subtracting.c
     Interface.c
     Feeling.c
     Determinant.c

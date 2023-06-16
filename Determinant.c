@@ -1,5 +1,6 @@
 #include "matrix.h"
 
+//реализация минора матрицы (вспомогательная ф-ия)
 struct Matrix* Minor(struct Matrix A, int ln, int col, struct Matrix* C) {
     int k = 0;
     int l = 0;
@@ -19,6 +20,7 @@ struct Matrix* Minor(struct Matrix A, int ln, int col, struct Matrix* C) {
     return C;
 }
 
+//реализация нахождения определителя матрицы с помощью рекурсии 
 int Det(struct Matrix A) {
     int result = 0;
     if (A.n == A.m) {
